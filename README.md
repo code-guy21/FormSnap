@@ -5,7 +5,7 @@
 <br />
 <div align="center">
  
-  <h3 align="center">FitConnect</h3>
+  <h3 align="center">FormSnap</h3>
 
   <p align="center">
     A mobile application designed to connect users with fitness activities, providing AI-powered recommendations and event management.
